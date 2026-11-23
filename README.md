@@ -47,6 +47,10 @@ All original content in this repository (configs, docs, modpack structure, accep
 
 **The author is maskday (GitHub: Shy).** The in-house jars' `authors` fields credit maskday and Mask (engineering collaboration) — both refer to the same author as this account.
 
+## Contact
+
+heiyimianju (at) gmail (dot) com
+
 ---
 
 # 禁区协议（中文版）
@@ -97,3 +101,7 @@ ExclusionProtocol/
 本仓库中由作者原创的内容（配置、文档、整合包结构、验收清单）**保留所有权利**。第三方模组归各自作者所有，按各自许可分发（`modrinth.index.json` 仅含 URL 与完整性哈希，不含任何 mod 二进制）。GPL 补丁件随包分发并附改动说明。自研模组（ExclusionEconomy / StaminaSurge）许可见姊妹仓库。
 
 **本作作者 maskday（GitHub 账号 Shy）。** 自研 jar 内 authors 字段署名 maskday 与 Mask（工程协作署名），与本账号同属作者。
+
+## 联系
+
+heiyimianju (at) gmail (dot) com

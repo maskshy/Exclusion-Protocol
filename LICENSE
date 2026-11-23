@@ -1,0 +1,30 @@
+Exclusion Protocol Modpack — License
+
+Copyright (c) 2026 maskday. All rights reserved.
+
+All original content in this repository — including configurations,
+documentation, modpack structure, acceptance checklists, and release
+packaging — is the proprietary work of maskday.
+
+Third-party mods referenced by modrinth.index.json belong to their
+respective authors and are distributed under their own licenses. This
+repository contains URLs and integrity hashes only — no mod binaries.
+
+GPL-patched builds included in releases carry their own change notes
+and remain subject to the GNU GPL.
+
+In-house mods (ExclusionEconomy, StaminaSurge) are licensed separately
+in the ExclusionForge repository.
+
+─────────────────────────────────────────────
+中文摘要 / Chinese summary
+
+本仓库原创内容（配置、文档、整合包结构、验收清单、发布包装）
+保留所有权利（All Rights Reserved），作者 maskday。
+
+第三方模组归各自作者所有，按各自许可分发；本仓库仅含 URL 与
+完整性哈希，不含任何 mod 二进制。
+
+GPL 补丁件随包分发并附改动说明，仍受 GNU GPL 约束。
+
+自研模组（ExclusionEconomy / StaminaSurge）许可见 ExclusionForge 仓库。
